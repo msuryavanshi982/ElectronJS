@@ -1,0 +1,16 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "This is my first Project in Electron JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "nodemon --exec electron ."
+  },
+  "author": "MEENAKSHI LODHI",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^22.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
